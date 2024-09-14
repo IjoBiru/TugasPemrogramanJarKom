@@ -1,0 +1,11 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\bin\Release\MovingObject.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\bin\Release\MovingObject.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\bin\Release\MovingObject.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.Form1.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\MovingObject\obj\Release\MovingObject.pdb

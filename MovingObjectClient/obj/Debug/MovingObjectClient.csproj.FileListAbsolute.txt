@@ -1,0 +1,13 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\bin\Debug\MovingObjectClient.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\bin\Debug\MovingObjectClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\bin\Debug\MovingObjectClient.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.MOClientForm1.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectClient\obj\Debug\MovingObjectClient.pdb
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\MovingObjectClient\obj\Debug\MovingObjectClient.exe
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\MovingObjectClient\obj\Debug\MovingObjectClient.pdb

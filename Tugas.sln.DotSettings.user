@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=BasicAsyncServer_002FProperties_002FResources/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=BasicAsyncServer_002FServerForm/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectClient_002FForm1/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectClient_002FForm1/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectClient_002FMOClientForm1/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectClient_002FProperties_002FResources/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectServer_002FForm1/@EntryIndexedValue">False</s:Boolean>
+	
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObjectServer_002FProperties_002FResources/@EntryIndexedValue">False</s:Boolean>
+	
+	
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObject_002FForm1/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObject_002FForm1/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObject_002FProperties_002FResources/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=MovingObject_002FProperties_002FResources/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=13b0c46c_002D9795_002D4f73_002Da535_002D4801bae37dbd_0023Tugas2/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

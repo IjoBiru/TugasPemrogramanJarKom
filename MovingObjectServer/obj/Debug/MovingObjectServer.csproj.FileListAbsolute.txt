@@ -1,0 +1,15 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\bin\Debug\MovingObjectServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\bin\Debug\MovingObjectServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\bin\Debug\MovingObjectServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.Form1.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\MovingObjectServer\obj\Debug\MovingObjectServer.pdb
+E:\Data Alya\Tugas\sem5\github\TugasJarkom-main\MovingObjectServer\obj\Debug\MovingObjectServer.exe
+E:\Data Alya\Tugas\sem5\github\TugasJarkom-main\MovingObjectServer\obj\Debug\MovingObjectServer.pdb
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\MovingObjectServer\obj\Debug\MovingObjectServer.exe
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\MovingObjectServer\obj\Debug\MovingObjectServer.pdb
