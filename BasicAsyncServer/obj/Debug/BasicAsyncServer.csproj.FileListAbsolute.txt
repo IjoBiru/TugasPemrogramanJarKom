@@ -1,0 +1,25 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.ServerForm.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\BasicAsyncClient.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CopyComplete
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncServer\bin\Debug\MovingObjectClient.exe.config
+E:\Data Alya\Tugas\sem5\github\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+E:\Data Alya\Tugas\sem5\github\TugasJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+E:\Data Alya\Tugas\sem5\github\TugasPemrogramanJarkom-main\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb

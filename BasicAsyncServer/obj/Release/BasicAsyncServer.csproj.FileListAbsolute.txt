@@ -1,0 +1,11 @@
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\bin\Release\BasicAsyncServer.exe.config
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\bin\Release\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\bin\Release\BasicAsyncServer.pdb
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.csproj.AssemblyReference.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.Properties.Resources.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.ServerForm.resources
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.csproj.GenerateResource.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.exe
+C:\Users\FIDA\Documents\Jaringan Semester 5\Github Pak Rizky\NetworkProgramming-master\BasicAsyncServer\obj\Release\BasicAsyncServer.pdb
